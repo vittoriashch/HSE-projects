@@ -1,4 +1,4 @@
-Welcome to my repository, where I explore two distinct projects in the field of data analysis and machine learning.
+Welcome to my repository, where I explore distinct projects in the field of data analysis and machine learning.
 
 ## Projects Overview
 ### [Financial Data Analysis and Optimal Portfolio Compounding](https://github.com/vittoriashch/HSE-projects/blob/main/Noisy%20Data%20ML%20HW.ipynb)
