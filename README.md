@@ -16,3 +16,15 @@ In this project, I address the challenges of working with noisy data from bicycl
 This project focuses on analyzing taxi order data with the primary goal of optimizing trip duration. It involves examining various metrics related to taxi orders, including factors affecting trip length, and implementing algorithms to enhance efficiency in trip management.
 
 *Key Topics: Data preprocessing, Geographic data analysis, Feature engineering*
+
+### **[Decision Trees: Classification, Custom Implementation, and Model Trees](https://github.com/vittoriashch/HSE-projects/blob/main/decision_trees.ipynb)**
+
+This project is divided into three parts:
+
+In the first part, I explore decision trees using scikit-learn for classification tasks. I visualize the decision boundaries produced on different datasets and analyze how they change with various hyperparameters.
+
+In the second part, I implement a custom decision tree classifier from scratch and compare its performance with the standard scikit-learn implementation.
+
+In the third part, I develop a regression tree where each leaf contains a linear regression model, allowing for more flexible predictions.
+
+*Key Topics: Decision trees, Custom ML implementation, Model interpretability, Regression trees with linear models*
