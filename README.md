@@ -41,3 +41,8 @@ This project focuses on implementing custom gradient descent algorithms to optim
 
 *Key Topics: Gradient descent, Linear regression, Optimization algorithms, Mathematical derivations**
 
+### **[Leaf Classification with PySpark](https://github.com/vittoriashch/HSE-projects/blob/main/spark_hw.ipynb)**
+In this project, I develop and compare multiple machine learning models to classify leaf species based on numerical shape descriptors from the UCI Leaf Dataset. The pipeline includes preprocessing, feature vectorization, hyperparameter tuning with cross-validation, and evaluation using distributed machine learning tools in Apache Spark. Special attention is paid to handling multiclass classification with binary-only models via One-vs-Rest strategy.
+
+*Key Topics: PySpark, Multiclass classification, Decision trees, GBT, MLP, One-vs-Rest, Model evaluation, Hyperparameter tuning, Cross-validation*
+
