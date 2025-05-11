@@ -35,7 +35,7 @@ In this project, I explore the internal mechanics of logistic regression and sup
 
 *Key Topics: Logistic regression, SVMs, Feature selection, Probability calibration, Economic impact evaluation*
 
-### **[Custom Gradient Descent for Linear Regression](https://github.com/vittoriashch/HSE-projects/blob/main/gradient_descent.ipynb))**
+### **[Custom Gradient Descent for Linear Regression](https://github.com/vittoriashch/HSE-projects/blob/main/gradient_descent.ipynb)**
 
 This project focuses on implementing custom gradient descent algorithms to optimize linear regression models. It includes detailed mathematical derivations of the optimization steps and a comparison of different variants of gradient descent in terms of convergence and performance.
 
