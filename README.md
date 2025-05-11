@@ -39,5 +39,5 @@ In this project, I explore the internal mechanics of logistic regression and sup
 
 This project focuses on implementing custom gradient descent algorithms to optimize linear regression models. It includes detailed mathematical derivations of the optimization steps and a comparison of different variants of gradient descent in terms of convergence and performance.
 
-**Key Topics: Gradient descent, Linear regression, Optimization algorithms, Mathematical derivations**
+*Key Topics: Gradient descent, Linear regression, Optimization algorithms, Mathematical derivations**
 
