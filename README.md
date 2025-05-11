@@ -34,3 +34,10 @@ In the third part, I develop a regression tree where each leaf contains a linear
 In this project, I explore the internal mechanics of logistic regression and support vector machines (SVMs), apply probability calibration techniques, experiment with variable transformations and feature selection, and assess the economic impact of model decisions in a business context.
 
 *Key Topics: Logistic regression, SVMs, Feature selection, Probability calibration, Economic impact evaluation*
+
+### **[Custom Gradient Descent for Linear Regression](https://github.com/vittoriashch/HSE-projects/blob/main/gradient_descent.ipynb))**
+
+This project focuses on implementing custom gradient descent algorithms to optimize linear regression models. It includes detailed mathematical derivations of the optimization steps and a comparison of different variants of gradient descent in terms of convergence and performance.
+
+**Key Topics: Gradient descent, Linear regression, Optimization algorithms, Mathematical derivations**
+
