@@ -29,7 +29,7 @@ In the third part, I develop a regression tree where each leaf contains a linear
 
 *Key Topics: Decision trees, Custom ML implementation, Model interpretability, Regression trees with linear models*
 
-### **[Logistic Regression, SVMs, Feature Engineering, and Model Calibration]([https://github.com/vittoriashch/HSE-projects/blob/main/decision_trees.ipynb](https://github.com/vittoriashch/HSE-projects/blob/main/vischudro_homework_practice_04_linclass.ipynb))**
+### **[Logistic Regression, SVMs, Feature Engineering, and Model Calibration](https://github.com/vittoriashch/HSE-projects/blob/main/decision_trees.ipynb](https://github.com/vittoriashch/HSE-projects/blob/main/vischudro_homework_practice_04_linclass.ipynb))**
 
 In this project, I explore the internal mechanics of logistic regression and support vector machines (SVMs), apply probability calibration techniques, experiment with variable transformations and feature selection, and assess the economic impact of model decisions in a business context.
 
