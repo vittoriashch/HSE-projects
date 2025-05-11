@@ -28,3 +28,9 @@ In the second part, I implement a custom decision tree classifier from scratch a
 In the third part, I develop a regression tree where each leaf contains a linear regression model, allowing for more flexible predictions.
 
 *Key Topics: Decision trees, Custom ML implementation, Model interpretability, Regression trees with linear models*
+
+### **[Logistic Regression, SVMs, Feature Engineering, and Model Calibration](https://github.com/vittoriashch/HSE-projects/blob/main/decision_trees.ipynb)**
+
+In this project, I explore the internal mechanics of logistic regression and support vector machines (SVMs), apply probability calibration techniques, experiment with variable transformations and feature selection, and assess the economic impact of model decisions in a business context.
+
+*Key Topics: Logistic regression, SVMs, Feature selection, Probability calibration, Economic impact evaluation*
